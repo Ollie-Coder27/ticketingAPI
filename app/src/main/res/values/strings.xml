@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">homework4</string>
+    <string name="header">Welcome to TicketMaster!</string>
+    <string name="searchBtn">Search!</string>
+    <string name="hintA">Keyword (e.g. Music, P!nk, Sports, etc.)</string>
+    <string name="hintB">City (e.g. Hartford, New York, Orlando, etc.)</string>
+    <!--Event Card Strings-->
+    <string name="eventHeader">Event Title</string>
+    <string name="eventImage">Event Image</string>
+    <string name="eventTime">Date and Time</string>
+    <string name="eventAddress">Event Address</string>
+    <string name="eventState">Event State</string>
+    <string name="eventCity">Event City</string>
+    <string name="ticketLink">Buy Tickets Below!</string>
+    <string name="priceRange">Price Range</string>
+    <string name="dateTimeMid"> \@: </string>
+    <string name="bottomApp">Calandra</string>
+    <string name="venueName">Venue Name</string>
+    <string name="infoLog">View info related to the application</string>
+
+
+    <!--
+    Final Project
+    -->
+    <string name="logoInfo">This is a logo for the TicketMaster knock-off application.</string>
+    <string name="eventInfo">This is an image for the current event being viewed.</string>
+    <string name="newSearch">Start New Search</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="locationCheck">Check Location Premision:</string>
+
+</resources>
